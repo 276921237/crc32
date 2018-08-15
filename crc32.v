@@ -1,5 +1,5 @@
-/* CRC check module
-
+﻿/* CRC check module 
+test1
 
 standard        generator polynomial                           HEX      
 CRC12           x^12 + x^11 + x^3 + x^2 + x + 1                0x80F
